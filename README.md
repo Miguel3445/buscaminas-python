@@ -18,7 +18,7 @@ El objetivo principal del proyecto fue comprender e implementar la lógica inter
 - Sistema de banderas
 - Animaciones al iniciar el juego
 - Sonidos incorporados de derrota, victoria e inicio de juego
-- Configuración personalisable de filas, columnas y minas(con limites determinados)
+- Configuración personalizable de filas, columnas y minas(con limites determinados)
 - Lógica separada entre tablero lógico y UI
 - Manejo de estados del juego (ganar / perder)
 
@@ -31,7 +31,7 @@ El objetivo principal del proyecto fue comprender e implementar la lógica inter
 - **Tkinter** (GUI)
 - Manejo de eventos y estados
 - Estructuras de datos (matrices, diccionarios)
-- Programación con funciones para mejor orden y optimisar el codigo
+- Programación con funciones para mejor orden y optimizar el codigo
 
 ---
 ## Ejecución

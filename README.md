@@ -38,7 +38,7 @@ El objetivo principal del proyecto fue comprender e implementar la lógica inter
 
 1. Clonar el repositorio
    ```bash
-   [git clone https://github.com/Miguel3445/buscaminas-python.git]
+   git clone https://github.com/Miguel3445/buscaminas-python.git
 2. ir al directorio de app_tkinter 
 3. ejecutar el main.py
 - otra opción es ejecutar el .exe, lo encuentras en la carpeta app_tkinter/dist/main/main.exe
